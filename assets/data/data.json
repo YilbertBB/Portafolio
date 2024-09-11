@@ -1,0 +1,120 @@
+{
+    "title": "Yilbert Benitez Barrio | Portafolio",
+    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Yilbert Benitez Barrio",
+    "skill": "Programador, hacker y el Elegido",
+    "location": "Edificio 13 Esc D apart. 7 Micro 3, Abel Santamaría, Santiago de Cuba,Cuba",
+    "media": {
+        "email": "yilbertbenitez3011@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/YilbertBB"
+    },
+    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "technologies": [
+        {
+            "icon": "devicon-flutter-plain",
+            "name": "Flutter"
+        },
+        {
+            "icon": "devicon-angularjs-plain",
+            "name": "Angular"
+        },
+        {
+            "icon": "devicon-react-plain",
+            "name": "React"
+        },
+        {
+            "icon": "devicon-nextjs-plain",
+            "name": "NextJs"
+        }
+      
+    ],
+    "experience": [
+        {
+            "icon": "code",
+            "title": "Flutter",
+            "subtitle": "Programador",
+            "description": "Programo apps para dispositivos móviles en flutter que ayuden a facilitar las tareas de los usuarios y las empresas.",
+            "date": "2024"
+        },
+        {
+            "icon": "rabbit",
+            "title": "Nebuchadnezzar",
+            "subtitle": "El Elegido",
+            "description": "Me encargo de salvar el mundo.",
+            "date": "1999 - Actualidad"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "armchair",
+            "title": "ARShop",
+            "subtitle": "Software propiedad de la Universidad de Oriente",
+            "description": "Aplicación para dispositivos moviles con tecnología de realidad aumentada que ayuda a visualizar muebles antes de comprarlos.",
+            "technologies": [
+                {
+                    "icon": "devicon-dart-plain",
+                    "name": "Dart"
+                },
+                {
+                    "icon": "devicon-flutter-plain",
+                    "name": "Flutter"
+                }
+            ],
+            "image": "/arshop.png",
+            "url": "https://matrix.fandom.com/wiki/MetaCortex",
+            "github": "https://github.com/YilbertBB"
+        },
+        {
+            "icon": "heart-pulse",
+            "title": "Calculadora DB2P",
+            "subtitle": "Mi obra maestra",
+            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "technologies": [
+                {
+                    "icon": "devicon-dart-plain",
+                    "name": "Dart"
+                },
+                {
+                    "icon": "devicon-flutter-plain",
+                    "name": "Flutter"
+                }
+            ],
+            "image": "/calculadora db2p.png",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/YilbertBB"
+        }
+    ],
+    "training": [      
+        {
+            "icon": "graduation-cap",
+            "title": "Universidad de Oriente",
+            "subtitle": "Santiago de Cuba, Cuba",
+            "description": "Aprendí más cosas.",
+            "date": "2021 - 2024",
+            "certificate": "https://es.wikipedia.org/wiki/Universidad_de_Oriente_(Cuba)"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        }
+    ]
+}
