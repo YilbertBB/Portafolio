@@ -1,8 +1,8 @@
 {
     "title": "Yilbert Benitez Barrio | Portafolio",
     "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
+    "image": "/perfil.jpg",
+    "avatar": "/perfil.jpg",
     "name": "Yilbert Benitez Barrio",
     "skill": "Programador, hacker y el Elegido",
     "location": "Edificio 13 Esc D apart. 7 Micro 3, Abel Santamaría, Santiago de Cuba,Cuba",
@@ -92,7 +92,7 @@
             "icon": "graduation-cap",
             "title": "Universidad de Oriente",
             "subtitle": "Santiago de Cuba, Cuba",
-            "description": "Aprendí más cosas.",
+            "description": "Graduado de Ing. Informático.",
             "date": "2021 - 2024",
             "certificate": "https://es.wikipedia.org/wiki/Universidad_de_Oriente_(Cuba)"
         }
